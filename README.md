@@ -1,2 +1,2 @@
-# git-github.com-CS-icez-PKU-sp21-Practice_of_Programming_in_C_and_CPP
-北京大学2021秋季《程序设计实习》课程资料
+# 关于本仓库
+本仓库存放了我在 2022 春所上课程《程序设计实习》的 OJ 习题代码，包括平时作业、魔兽世界大作业、期中期末考试，所有代码均可 AC。
